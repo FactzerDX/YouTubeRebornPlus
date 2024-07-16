@@ -15,15 +15,14 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/arichorn/YouTubeRebornPlus/release/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/arichorn/YouTubeRebornPlus?logo=youtube&color=%23ff0000&label=Latest%20Release" alt="Badge"></img></a>
-    <a href="https://github.com/arichorn/YouTubeRebornPlus/releases/latest"><img src="https://img.shields.io/github/downloads/arichorn/YouTubeRebornPlus/total?color=%23ff0000&label=Downloads&logo=cloudsmith&logoColor=white" alt="Badge"></img></a>
-    <a href="https://github.com/arichorn/YouTubeRebornPlus/commit"><img src="https://custom-icon-badges.demolab.com/github/last-commit/arichorn/YouTubeRebornPlus?logo=history&logoColor=white&color=%23ff0000&label=Last%20Commit" alt="Last Commit Badge"></a>
-    <a href="https://github.com/arichorn/YouTubeRebornPlus/issues"><img src="https://custom-icon-badges.demolab.com/github/issues-raw/arichorn/YouTubeRebornPlus?logo=issue-opened&logoColor=white&color=%23ff0000&label=Issues" alt="Issues Badge"></a>
+    <a href="https://github.com/arichornlover/YouTubeRebornPlus/release/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/arichornlover/YouTubeRebornPlus?logo=youtube&color=%23ff0000&label=Latest%20Release" alt="Badge"></img></a>
+    <a href="https://github.com/arichornlover/YouTubeRebornPlus/commit"><img src="https://custom-icon-badges.demolab.com/github/last-commit/arichornlover/YouTubeRebornPlus?logo=history&logoColor=white&color=%23ff0000&label=Last%20Commit" alt="Last Commit Badge"></a>
+    <a href="https://github.com/arichornlover/YouTubeRebornPlus/issues"><img src="https://custom-icon-badges.demolab.com/github/issues-raw/arichornlover/YouTubeRebornPlus?logo=issue-opened&logoColor=white&color=%23ff0000&label=Issues" alt="Issues Badge"></a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/arichorn/YouTubeRebornPlus/stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/arichorn/YouTubeRebornPlus?logo=star&logoColor=white&color=%23ff0000&label=Stars" alt="Stars Badge"></img></a>
-<a href="https://github.com/arichorn/YouTubeRebornPlus/network/members"><img src="https://custom-icon-badges.demolab.com/github/forks/arichorn/YouTubeRebornPlus?logo=github&logoColor=white&color=%23ff0000&label=Forks"></a>
+    <a href="https://github.com/arichornlover/YouTubeRebornPlus/stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/arichornlover/YouTubeRebornPlus?style=flat&logo=star&logoColor=white&color=%23ff0000&label=Stars" alt="Stars Badge"></img></a>
+<a href="https://github.com/arichornlover/YouTubeRebornPlus/network/members"><img src="https://custom-icon-badges.demolab.com/github/forks/arichornlover/YouTubeRebornPlus?style=flat&logo=github&logoColor=white&color=%23ff0000&label=Forks"></a>
 </p>
 
 # Table of Contents
@@ -31,9 +30,9 @@
 * [Credits](#credits)
 * [Features](#features)
 * [Known issues](#known-issues)
-* [Download (IPA)](#download-ipa)
+* [Download](#download)
 * [Support the developers!](#support-the-developers)
-* [Building (optional)](#building-optional)
+* [Building](#building)
 
 # Credits
 
@@ -41,11 +40,18 @@
 Special thanks to these developer(s) for maintaining and improving YouTubeRebornPlus!
 <tr>
 <td align="center">
-<a href='https://github.com/arichorn'>
+<a href='https://github.com/arichornlover'>
 <img src='https://user-images.githubusercontent.com/78001398/271853100-d5c74be7-4890-411c-907a-dc5f7b5fa46e.png' width='110px;'>
 </a>
 <br>
-<a href='https://github.com/arichorn'>arichorn</a>
+<a href='https://github.com/arichornlover'>arichornlover</a>
+</td>
+<td align="center">
+<a href='https://github.com/bhackel'>
+<img src='https://github.com/arichornlover/uYouEnhanced/assets/78001398/d1d46f69-d7b9-4e6a-82b6-e5629d26667b' width='110px;'>
+</a>
+<br>
+<a href='https://github.com/bhackel'>bhackel</a>
 </td>
 <td align="center">
 <a href='https://github.com/dayanch96'>
@@ -62,6 +68,13 @@ Special thanks to these developer(s) for maintaining and improving YouTubeReborn
 <a href='https://github.com/ssuesskind'>ssuesskind</a>
 </td>
 <td align="center">
+<a href='https://github.com/dodieboy'>
+<img src='https://github.com/arichornlover/YouTubeRebornPlus/assets/78001398/0d43912b-e561-4865-8312-5e241d34bf72' width='110px;'>
+</a>
+<br>
+<a href='https://github.com/dodieboy'>dodieboy</a>
+</td>
+<td align="center">
 <a href='https://github.com/Balackburn'>
 <img src='https://user-images.githubusercontent.com/78001398/271853318-3005deb3-b484-4b2b-a093-44c2af79b9af.png' width='110px;'>
 </a>
@@ -70,7 +83,6 @@ Special thanks to these developer(s) for maintaining and improving YouTubeReborn
 </td>
 
 <table id='credit'>
-Special thanks to all the developers who have orignally contributed to YouTube Reborn & CercubePlus!
 <tr>
 <td align="center">
 <a href='https://github.com/LillieH1000'>
@@ -199,7 +211,7 @@ Special thanks to all the developers who have orignally contributed to YouTube R
 
 - Block all advertisements, Enable background playback & etc. (Video Options)
 
-- Set default player quality on WiFi & Celullar.
+- Set default player quality on WiFi & Cellular.
 
 - Tons of Options such as Video Options, Overlay Options, Tab Bar Options, PiP Options, Shorts Options & etc.
 
@@ -259,62 +271,60 @@ any many more...
 
 - Downloading videos/audio not working. (probably a Client-Side change, don't know why this happened.)
 
-2. **LowContrastMode**: this tweak doesn't work correctly with the ui on v17.39.4 or later versions of the YouTube App. [WORKAROUND - go to `Settings > YouTubeRebornPlus > Miscellaneous > Enable App Version Spoofer` and go to `Version Spoofer Picker` and select `v17.38.10`]
+2. **LowContrastMode**: this tweak doesn't work correctly with the ui if you use v17.39.4 or later versions of the YouTube App. [WORKAROUND - go to `Settings > YouTubeRebornPlus > Miscellaneous > Enable App Version Spoofer` and go to `Version Spoofer Picker` and select `v17.38.10`]
 
-3. **YTSpeed**: this tweak doesn't show playback speed controls in the v18.19.1 or later versions of the YouTube App. [WORKAROUND - go to `Settings > YouTubeRebornPlus > Miscellaneous > Enable App Version Spoofer` and go to `Version Spoofer Picker` and select `v18.18.2`]
+3. **YTClassicVideoQuality**: this tweak that shows the old video quality menu has stopped working on v18.19.1 or later versions of the YouTube App. [WORKAROUND - read YTSpeed's workaround above]
 
-4. **YTClassicVideoQuality**: this tweak that shows the old video quality menu has stopped working on v18.19.1 or later versions of the YouTube App. [WORKAROUND - read YTSpeed's workaround above]
+4. **YTUHD**: [Stuttering on 4K videos](https://github.com/qnblackcat/uYouPlus/issues/6).
 
-5. **YTUHD**: [Stuttering on 4K videos](https://github.com/qnblackcat/uYouPlus/issues/6).
+5. **YouPiP** (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the *speedup-bug* as described [here](https://drive.google.com/file/d/1NKdv1fr_KRWgD8nhkMDfG2eLBnbdeVtX/view?usp=sharing). The bug also happens when you try to play multi-sources of sound at the same time. Enable **LegacyPiP** is a workaround. Keep in mind that LegacyPiP also removes UHD quality and breaks YouTube Autoplay next. Use it at your own risk!
 
-6. **YouPiP** (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the *speedup-bug* as described [here](https://drive.google.com/file/d/1NKdv1fr_KRWgD8nhkMDfG2eLBnbdeVtX/view?usp=sharing). The bug also happens when you try to play multi-sources of sound at the same time. Enable **LegacyPiP** is a workaround. Keep in mind that LegacyPiP also removes UHD quality and breaks YouTube Autoplay next. Use it at your own risk!
-
-7. **Not a bug**: 
+6. **Not a bug**: 
 
 - The app won't be able to receive push notifications if you use a free developer account to sideload it. 
 
 - It's impossible to fix deep-link (a.k.a Open in the YouTube app). However, you can use this [Shortcuts](https://shortcutsgallery.com/shortcuts/open-in-youtube/) as a workaround (tested on iOS 14). **Credit:** RandomAccessMemories#5025
 
-# Download (IPA)
+# Download
 
-- **YouTubeRebornPlus** (or you can call it YouTubeReborn+) requires iOS & iPadOS 14.0 and later. The latest version of **YouTubeRebornPlus** can be found in the [Release tab](https://github.com/arichorn/YouTubeRebornPlus/releases/latest).
+- **YouTubeRebornPlus** (or you can call it YouTubeReborn+) requires iOS & iPadOS 15.0 and later. The latest version of **YouTubeRebornPlus** can be found in the [Release tab](https://github.com/arichornlover/YouTubeRebornPlus/releases/latest).
 
-- The latest version of **YouTubeRebornPlus** can be found under [Releases](https://github.com/arichorn/YouTubeRebornPlus/releases/latest).
-- **Compatibility:** Requires iOS/iPadOS 14.0 or later.
+- The latest version of **YouTubeRebornPlus** can be found under [Releases](https://github.com/arichornlover/YouTubeRebornPlus/releases/latest).
+- **Compatibility:** Requires iOS/iPadOS 15.0 or later.
 - For AltStore user: 
 
   - My official AltStore repo: https://therealfoxster.github.io/altsource-viewer/view/?source=https://raw.githubusercontent.com/arichornlover/arichornlover.github.io/main/apps2.json
 
-- [Open in AltStore (v19.10.5-4.2.6)](https://tinyurl.com/735nundu) - It will take a while to install because AltStore needs to download the IPA first.
+- [Open in AltStore (v19.23.3-4.2.8)](https://tinyurl.com/42ydwwba) - It will take a while to install because AltStore needs to download the IPA first.
 
 <details>
-  <summary>Version information (last updated: Mar 18, 2024)</summary>
+  <summary>Version information (last updated: June 11, 2024)</summary>
 
 | **Tweaks/App** | **Developer** | **Version** | **Open source** |
 | - | - | :-: | :-:  |
-| **YouTube** | Google Inc | 19.10.5 | ✖︎ |
-| **YouTube Reborn** | LillieH1000 & arichornlover | 4.2.6 | [✔︎](https://github.com/LillieH1000/YouTube-Reborn) |
+| **YouTube** | Google Inc | 19.23.3 | ✖︎ |
+| **YouTube Reborn** | LillieH1000 & arichornlover | 4.2.8 | [✔︎](https://github.com/LillieH1000/YouTube-Reborn) |
 | **Open in YouTube** | [CokePokes](https://github.com/CokePokes/) | 1.2 | ✖︎ |
 | **YTNoShorts** | [MiRO92](https://twitter.com/miro92) | 1.0.2 | [✔︎](https://github.com/MiRO92/YTNoShorts) |
 | **YTNoCommunityPosts** | [michael-winay](https://github.com/michael-winay) | 0.0.2 | [✔︎](https://github.com/michael-winay/YTNoCommunityPosts) |
-| **iSponsorBlock** | [Galactic-Dev](https://github.com/Galactic-Dev) | 1.2.2 | [✔︎](https://github.com/Galactic-Dev/iSponsorBlock) |
+| **iSponsorBlock** | [Galactic-Dev](https://github.com/Galactic-Dev) | 1.2.5 | [✔︎](https://github.com/Galactic-Dev/iSponsorBlock) |
 | **BigYTMiniPlayer** | [Galactic-Dev](https://github.com/Galactic-Dev) | 1.0-1 | [✔︎](https://github.com/Galactic-Dev/BigYTMiniPlayer) |
 | **YTNoHoverCards** | [level3tjg](https://twitter.com/level3tjg) | 0.0.3 | [✔︎](https://github.com/level3tjg/YTNoHoverCards) |
 | **YTMiniplayerEnabler** | [level3tjg](https://twitter.com/level3tjg) | 0.0.2 | [✔︎](https://github.com/level3tjg/YTMiniplayerEnabler) |
-| **DontEatMyContent** | [therealFoxster](https://github.com/therealFoxster) | 1.1.3 | [✔︎](https://github.com/therealFoxster/DontEatMyContent) |
+| **DontEatMyContent** | [therealFoxster](https://github.com/therealFoxster) | 1.1.6 | [✔︎](https://github.com/therealFoxster/DontEatMyContent) |
 | **YTSpeed** | [Lyvendia](https://github.com/Lyvendia) | 1.0.1 | [✔︎](https://github.com/Lyvendia/YTSpeed) |
 | **Alderis Color Picker** | [HASHBANG Productions](https://github.com/hbang) | 1.2 | [✔︎](https://github.com/hbang/Alderis) |
-| **YTUHD** | [PoomSmart](https://twitter.com/poomsmart) | 1.4.3 | [✔︎](https://github.com/PoomSmart/YTUHD) |
-| **YouPiP** | [PoomSmart](https://twitter.com/poomsmart) | 1.8.4 | [✔︎](https://github.com/PoomSmart/YouPiP) |
+| **YTUHD** | [PoomSmart](https://twitter.com/poomsmart) | 1.5.1 | [✔︎](https://github.com/PoomSmart/YTUHD) |
+| **YouPiP** | [PoomSmart](https://twitter.com/poomsmart) | 1.8.9 | [✔︎](https://github.com/PoomSmart/YouPiP) |
 | **IAmYouTube** | [PoomSmart](https://twitter.com/poomsmart) | 1.3.0 | [✔︎](https://github.com/PoomSmart/IAmYouTube) |
-| **YTABConfig** | [PoomSmart](https://twitter.com/poomsmart) | 1.7.0 | [✔︎](https://github.com/PoomSmart/YTABConfig) |
+| **YTABConfig** | [PoomSmart](https://twitter.com/poomsmart) | 1.7.2 | [✔︎](https://github.com/PoomSmart/YTABConfig) |
 | **YTReExplore** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.2 | [✔︎](https://github.com/PoomSmart/YTReExplore) |
 | **NoYTPremium** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.4 | [✔︎](https://github.com/PoomSmart/NoYTPremium) |
 | **YTNoPaidPromo** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.0 | [✔︎](https://github.com/PoomSmart/YTNoPaidPromo) |
 | **YouRememberCaption** | [PoomSmart](https://twitter.com/poomsmart) | 1.0.0 | [✔︎](https://poomsmart.github.io/repo/depictions/youremembercaption.html) |
-| **Return YouTube Dislike** | [PoomSmart](https://twitter.com/poomsmart) | 1.11.6 | [✔︎](https://github.com/PoomSmart/Return-YouTube-Dislikes) |
+| **Return YouTube Dislike** | [PoomSmart](https://twitter.com/poomsmart) | 1.11.11 | [✔︎](https://github.com/PoomSmart/Return-YouTube-Dislikes) |
 | **YouMute** | [PoomSmart](https://twitter.com/poomsmart) | 1.2.1-3 | [✔︎](https://github.com/PoomSmart/YouMute) |
-| **YouQuality** | [PoomSmart](https://twitter.com/poomsmart) | 1.1.4-2 | [✔︎](https://github.com/PoomSmart/YouQuality) |
+| **YouQuality** | [PoomSmart](https://twitter.com/poomsmart) | 1.2.1 | [✔︎](https://github.com/PoomSmart/YouQuality) |
 | **YTVideoOverlay** | [PoomSmart](https://twitter.com/poomsmart) | 1.1.6 | [✔︎](https://github.com/PoomSmart/YTVideoOverlay) |
 | **YTHoldForSpeed** | [joshuaseltzer](https://github.com/joshuaseltzer) | 1.2.0 | [✔︎](https://github.com/joshuaseltzer/YTHoldForSpeed) |
 | **LowContrastMode** | [arichorn](https://github.com/arichorn) | 1.4.2 | [✔︎](https://github.com/arichorn/YTLowContrastMode) |
@@ -322,17 +332,34 @@ any many more...
 </details>
 
 # Support the developers
-- [**MiRO92**](https://twitter.com/miro92): https://github.com/MiRO92/uYou-for-YouTube#support
-- [**level3tjg**](https://twitter.com/level3tjg): https://ko-fi.com/level3tjg
-- [**BandarHL**](https://twitter.com/bandarhl): https://www.paypal.com/paypalme/BandarHL
-- [**julioverne**](https://twitter.com/ijulioverne): https://www.patreon.com/julioverne
-- [**Galactic-dev**](https://twitter.com/dev_galactic):   
-  - Paypal: https://www.paypal.com/paypalme/DBrett684 
-  - Venmo: https://venmo.com/u/DavidBrett
+<a href="https://buymeacoffee.com/dayanch96"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(buymeacoffee).png" width="200"></a>
+&nbsp;
+<a href="https://github.com/sponsors/dayanch96"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(Github).png" width="200"></a>
 
-# Building(s) (optional)
-See [YouTubeRebornPlus/Building - Wiki](https://github.com/arichorn/YouTubeRebornPlus/wiki/Building)
-or Another Version [uYouPlus/Building - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Building)
+<a href="https://ko-fi.com/dayanch966"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Dayanch96(ko-fi).png" width="200"></a>
+&nbsp;
+<a href="https://www.paypal.com/paypalme/poomsmart"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Poomsmart.png" width="200"></a>
+
+<a href="https://www.paypal.com/paypalme/DBrett684"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Galactic-dev(Paypal).png" width="200"></a>
+&nbsp;
+<a href="https://venmo.com/u/DavidBrett"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/Galactic-dev(Venmo).png?raw=true" width="200"></a>
+
+
+<a href="https://github.com/MiRO92/uYou-for-YouTube#support"><img src="https://raw.githubusercontent.com/YTLitePlus/Assets/main/Github/Buttons/Donations/MIRO92.png" width="200"></a>
+&nbsp;
+
+<a href="https://www.paypal.com/paypalme/BandarHL"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/BandarHL.png" width="200"></a>
+&nbsp;
+
+<a href="https://ko-fi.com/level3tjg"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/level3tjg.png?raw=true" width="200"></a>
+&nbsp;
+
+<a href="https://www.patreon.com/julioverne"><img src="https://github.com/YTLitePlus/Assets/blob/main/Github/Buttons/Donations/julioverne.png?raw=true" width="200"></a>
+
+# Building
+See [YouTubeRebornPlus/Building - Wiki](https://github.com/arichornlover/YouTubeRebornPlus/wiki/Building), [uYouEnhanced/Building - Wiki](https://github.com/arichornlover/uYouEnhanced/wiki/Building)
+or [uYouPlus/Building - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Building)
 
 ## Balackburn's YTLitePlus
-https://balackburn.github.io/YTLitePlus/
+AltStore/SideStore: https://balackburn.github.io/YTLitePlus/
+Github: https://github.com/ytliteplus/ytliteplus/
